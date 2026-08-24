@@ -1,7 +1,8 @@
-# Animasu Cloudstream Repository
+# IndoStream - Animasu
 
-Repositori plugin Cloudstream untuk provider Animasu (`https://animasu.care`).
+Cloudstream repository for Animasu.
 
-## Cara Menggunakan di Cloudstream
-Tambahkan link repo berikut di aplikasi Cloudstream kamu:
-`https://raw.githubusercontent.com/USERNAME/REPO_NAME/builds/repo.json`
+Source: https://animasu.care
+
+Repo URL for Cloudstream:
+https://raw.githubusercontent.com/mluthfialsilmi-collab/Indostream/main/repo.json

@@ -1,24 +1,8 @@
 {
-  "name": "IndoStream Repository",
-  "description": "Cloudstream extension repository with Animasu provider",
+  "name": "Indostream Repo",
+  "description": "Cloudstream Indonesia Repo - Animasu",
   "manifestVersion": 1,
-  "pluginUrl": "https://raw.githubusercontent.com/USER/REPO/builds",
-  "plugins": [
-    {
-      "name": "Animasu",
-      "plugin": "com.animasu.AnimasuPlugin",
-      "description": "Nonton anime subtitle Indonesia di Animasu.care",
-      "version": 1,
-      "url": "https://raw.githubusercontent.com/USER/REPO/builds/Animasu.cs",
-      "iconUrl": "https://animasu.care/favicon.ico",
-      "authors": [
-        "Cloudstream"
-      ],
-      "types": [
-        "Anime",
-        "AnimeMovie"
-      ],
-      "language": "id"
-    }
+  "pluginLists": [
+    "https://raw.githubusercontent.com/mluthfialsilmi-collab/Indostream/builds/plugins.json"
   ]
 }
